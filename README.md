@@ -13,7 +13,7 @@ This repository contains the source for our docs site, covering:
 - FAQs & troubleshooting
 - Policies and terms
 
-The docs are live at [waveserv.com/helpcenter](https://waveserv.com/helpcenter) and update automatically whenever changes are pushed to this repo.
+The docs are live at [helpcenter.waveserv.com](https://helpcenter.waveserv.com/) and update automatically whenever changes are pushed to this repo.
 
 ## 🐛 Found an issue?
 
